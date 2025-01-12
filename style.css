@@ -1,0 +1,27 @@
+body{
+    margin: 15px;
+}
+p{
+    font-family: "Playwrite Australia SA ", "Nunito" ;
+    
+}
+
+video {
+    margin-left: 50vw;
+    transform: translate(-50%);
+  }
+
+image{
+    float: left;
+}
+
+table{margin-left: 50vw;
+    transform: translate(-50%);
+}
+
+h1{
+    color: #AD03DE;
+
+    text-shadow: 5px 5px 10px;
+
+}
